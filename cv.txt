@@ -1,0 +1,122 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>JUNG SOO LEE - Professional CV</title> </head> <body> <h1>JUNG SOO LEE, Ph.D., M.B.A.</h1> <p>Surprise, AZ • (623) 280-3298 • jungsoolee8619@gmail.com</p> <hr>
+
+<h2>INTRODUCTION</h2>
+<p>5 years of industry experience in semiconductor business with Ph.D. in applied science, M.S. in mechanical engineering, and M.B.A. Good communicator and excellent learner &amp; adapter with high work ethics. Expertise in all types of thin-film metrology, process development, tool maintenance &amp; matching, and AI-driven data analysis. Recently active in customer support on advanced packaging tools including ENEPIG, fluxless reflow, and vertical furnace, with strong focus on yield monitoring and responsive technical support.</p>
+
+<hr>
+
+<h2>EXPERIENCE</h2>
+
+<h3>Yield Engineering Systems, Inc. (YES) &mdash; Chandler, AZ</h3>
+<p><strong>Process Engineer &ndash; Key Account Technologist</strong><br>
+<strong>Dec. 2025 &ndash; Current</strong></p>
+<ul>
+    <li>Technologist for surface finishing and reflow tools: fluxless reflow, vertical furnace, and ENEPIG.</li>
+    <li>Customer support on yield monitoring with responsive technical support.</li>
+</ul>
+
+<h3>ASM America, Inc. &mdash; Phoenix, AZ</h3>
+<p><strong>Sr. Process Engineer &ndash; R&amp;D</strong><br>
+<strong>Apr. 2024 &ndash; Oct. 2025</strong></p>
+<ul>
+    <li>Leading PE for BEOL integration of Molybdenum ALD film applied to 3D&ndash;DRAM wordline metalization.</li>
+    <li>Leading PE for developing in&ndash;situ laser sensor for Molybdenum dose analyzer.</li>
+    <li>Leading PE for matching processes of decades of on&ndash;site and demo equipment.</li>
+    <li>Equipment maintenance: monitoring performance through wafer defect measurement.</li>
+</ul>
+
+<p><strong>Sr. Process Engineer &ndash; Metrology</strong><br>
+<strong>May 2022 &ndash; Apr. 2024</strong></p>
+<ul>
+    <li>Owner of transmission electron microscopy.</li>
+    <li>Internal and external customer care focusing on critical interests.</li>
+    <li>Material STEM analysis: S/TEM, EDS, EELS, 4&ndash;D STEM, strain analysis, image analysis.</li>
+    <li>Active collaboration with internal customers: paper publication for low&ndash;temp selective epitaxy development.</li>
+</ul>
+
+<h3>INanoBio, Inc. &mdash; Scottsdale, AZ</h3>
+<p><strong>Postdoctoral Researcher</strong><br>
+<strong>Apr. 2021 &ndash; Apr. 2022</strong></p>
+<ul>
+    <li>Thin&ndash;film deposition on next&ndash;gen DNA sequencing device using CVD and ALD.</li>
+    <li>Device failure analysis using S/TEM and FIB/SEM dual beam at ASU facility.</li>
+</ul>
+
+<hr>
+
+<h2>EDUCATION</h2>
+
+<h3>Quantic School of Business &amp; Technology &mdash; Washington, D.C.</h3>
+<p><strong>Master of Business Administration</strong> (Online Class of 2024)<br>
+Score: 91%<br>
+Apr. 2023 &ndash; Aug. 2024<br>
+Continuing study of MBA aligned with new trends in tech business.</p>
+
+<h3>Southern Methodist University &mdash; Dallas, TX</h3>
+<p><strong>Ph.D. in Applied Science</strong><br>
+GPA: 3.96/4.0<br>
+May 2018 &ndash; Jan. 2021<br>
+Engineering core: thin&ndash;film engineering, microfluidics, nanofabrication.</p>
+
+<h3>Southern Methodist University &mdash; Dallas, TX</h3>
+<p><strong>M.Sc. in Mechanical Engineering</strong><br>
+GPA: 3.425/4.0<br>
+Aug. 2016 &ndash; May 2018<br>
+Engineering core: fluid dynamics, nanofabrication.</p>
+
+<hr>
+
+<h2>HONORS AND AWARDS</h2>
+<ul>
+    <li>Journal citations/papers: 286/11 (May 2026).</li>
+    <li>Honor student with top grade at Yonsei University (2012, South Korea).</li>
+</ul>
+
+<hr>
+
+<h2>SKILLS</h2>
+<ul>
+    <li>Statistical process data analysis: JMP (JSL), Excel, MATLAB; process drift, tool&ndash;to&ndash;tool matching, chamber matching, root&ndash;cause correlation analysis.</li>
+    <li>Advanced packaging equipment (Dry &amp; Wet): fluxless formic acid reflow tool for solder bumps; ENEPIG PCB metal plating tool.</li>
+    <li>Thin&ndash;film metrology: XRR/XRD, Semilab FAaST C&ndash;V/I&ndash;V, KLA eDR, KLA SP5, KLA Aleris ellipsometer, KLA Capres micro 4&ndash;pt probe, Rigaku XRF/tXRF, Bruker AFM, Hitachi SEM, optical microscopes, UV mask aligner.</li>
+    <li>Thin&ndash;film process: Molybdenum thin&ndash;film engineering for thickness, resistivity, roughness, selective growth, 3D&ndash;DRAM metalization, line bending improvement.</li>
+    <li>Optics: diode laser alignment, Fourier optics, free&ndash;space and fiber coupling, optical table components.</li>
+    <li>Electron microscopy: TEM, EDX, EELS, 4D&ndash;STEM, SEM; ThermoFisher Metrios, JEOL ARM200F/2100F/2010F, ThermoFisher Helios, FEI Nova200, Hitachi SU8600.</li>
+</ul>
+
+<hr>
+
+<h2>JOURNALS</h2>
+<ol>
+    <li>Jung Soo Lee*, J. P. Oviedo*, N. Bandara, X. Peng, L. Xia, Q. Wang, K. Garcia, J. Wang, MinJun Kim, Moon J. Kim, <em>Detection of nucleotides in hydrated ssDNA via 2D hBN nanopore with ionic&ndash;liquid/salt&ndash;water interface</em>, Electrophoresis, Wiley, 2021. (First authorship, Selected for Cover)</li>
+    <li>J. Saharia, N. Bandara, Jung Soo Lee, Q. Wang, Moon J. Kim, MinJun Kim, <em>Fabrication of hexagonal boron nitride based 2&ndash;D nanopore sensor for the assessment of electro&ndash;chemical responsiveness of human serum transferrin protein</em>, Electrophoresis, Wiley, 2020.</li>
+    <li>S. S. S. Peri, M. K. Sabnani, M. U. Raza, E. L. Urquhart, S. Ghaffari, Jung Soo Lee, MinJun Kim, J. Weidanz, G. Alexandrakis, <em>Quantification of low affinity binding interactions&hellip;</em>, Nanotechnology, IOP, 2020.</li>
+    <li>Jung Soo Lee, J. Saharia, N. Bandara, G. Goyal, A. Darvish, Q. Wang, Moon J. Kim, MinJun Kim, <em>Mechanical measurement of shape deformation of liposome&hellip;</em>, Electrophoresis, Wiley, 2019. (First authorship, Selected for Cover)</li>
+    <li>A. Darvish, Jung Soo Lee, B. Peng, J. Saharia, R. V. K. Sundaram, G. Goyal, N. Bandara, C. W. Ahn, J. S. Kim, P. Dutta, I. Chaiken, MinJun Kim, <em>Mechanical characterization of HIV&ndash;1&hellip;</em>, Electrophoresis, Wiley, 2019. (Selected for Cover)</li>
+    <li>J. Saharia*, N. Bandara*, G. Goyal, Jung Soo Lee, B. I. Karawdeniya, MinJun Kim, <em>Molecular level profiling of human serum transferrin protein&hellip;</em>, ACS Nano, 2019.</li>
+    <li>S. S. S. Peri, M. K. Sabnani, M. U. Raza, S. Ghaffari, S. Gimlin, D. D. Wawro, Jung Soo Lee, MinJun Kim, J. Weidanz, G. Alexandrakis, <em>Detection of specific antibody&ndash;ligand interactions&hellip;</em>, Nanotechnology, IOP, 2019.</li>
+    <li>Jung Soo Lee, B. Peng, A. C. Sabuncu, S. Nam, C. Ahn, Moon J. Kim, MinJun Kim, <em>Multiple consecutive recapture of rigid nanoparticles&hellip;</em>, Electrophoresis, Wiley, 2018. (First authorship, Selected for Cover)</li>
+</ol>
+
+<hr>
+
+<h2>CONFERENCE PAPERS</h2>
+<ol>
+    <li>Daner Abdula, YuJen Chiu, Brendan Marozas, Rami Khazaka, Caleb K. Miskin, Jung Soo Lee, Alexandros T. Demos, <em>Low&ndash;Temperature Selective Si:As Epitaxy</em>, ECS Transactions, IOP, 2024. (TEM analysis)</li>
+</ol>
+
+<hr>
+
+<h2>BOOK CHAPTER</h2>
+<ol>
+    <li>S. S. S. Peri, M. U. Raza, M. K. Sabnani, S. Ghaffari, S. Gimlin, D. D. Wawro, Jung Soo Lee, MinJun Kim, Jon Weidanz, G. Alexandrakis, <em>Self&ndash;Induced Back&ndash;Action Actuated Nanopore Electrophoresis (SANE) Sensor&hellip;</em>, in <strong>Biomedical Engineering Technologies</strong>, Methods in Molecular Biology, vol. 2394, Springer Nature, 2022.</li>
+</ol>
+
+<hr>
+
+<h2>PATENTS</h2>
+<ol>
+    <li>M. Choi, Jung Soo Lee, J. Kwon, <em>Tongue imaging chamber with integrated microfluidic channel</em>. South Korea, KR Patent No. 10&ndash;2016&ndash;0058046, Dec. 13, 2017.</li>
+</ol>
+
+</body> </html>
